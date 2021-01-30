@@ -1,0 +1,4 @@
+﻿  play.cpp
+C:\Users\22156\Desktop\Achievements\C\Play\play.cpp(7,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\22156\Desktop\Achievements\C\Play\play.cpp(8,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Play.vcxproj -> C:\Users\22156\Desktop\Achievements\C\Play\Debug\Play.exe

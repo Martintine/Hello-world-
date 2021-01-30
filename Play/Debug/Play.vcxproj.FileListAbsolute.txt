@@ -1,0 +1,4 @@
+C:\Users\22156\Desktop\代码\C\Play\Debug\Play.exe
+C:\Users\22156\Desktop\代码\C\Play\Debug\Play.pdb
+C:\Users\22156\Desktop\Achievements\C\Play\Debug\Play.exe
+C:\Users\22156\Desktop\Achievements\C\Play\Debug\Play.pdb
